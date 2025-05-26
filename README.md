@@ -1,8 +1,11 @@
 # Hey there! 👋 I'm Gustavo Rodrigues. Welcome to my GitHub!
 
-# 💫 About Me:
-🔭 I’m currently working on Tranquilo Seguros<br>🎓 I'm currently in my 3rd semester of Systems Analysis and Development at FATEC<br>🚀 I'm currently diving into Artificial Intelligence, Machine Learning, Deep Learning, R, <br>Python, and Cybersecurity
-> "First, solve the problem. Then, write the code." — John Johnson
+# 💫 About Me
+🔭 I’m currently working on **Tranquilo Seguros**  
+🎓 I’m in my 3rd semester of **Systems Analysis and Development** at **FATEC**  
+🚀 Currently diving into **Artificial Intelligence, Machine Learning, Deep Learning, R, Python, and Cybersecurity**
+
+> ### "First, solve the problem. Then, write the code." — John Johnson
 ### 📚 Books I Read
 Here are some of the books that have helped me grow as a developer and deepen my understanding of technology, design, and user experience:
 
