@@ -1,14 +1,15 @@
 ![Banner](https://github.com/GustavoRodrigues476/gustavorodrigues476/blob/main/Banner.png)
 <!--# Hey there! 👋 I'm Gustavo Rodrigues. Welcome to my GitHub! -->
+<br /> 
 
-
+> ### "First, solve the problem. Then, write the code." — John Johnson <br />
+<br />
 
 # Me
 🔭 I’m currently working on **Tranquilo Seguros**  
 🎓 I’m in my 3rd semester of **Systems Analysis and Development** at **FATEC**  
 🚀 Currently diving into **Artificial Intelligence, Machine Learning, Deep Learning, R, Python, and Cybersecurity**
 
-> ### "First, solve the problem. Then, write the code." — John Johnson
 ### 📚 Books I Read
 Here are some of the books that have helped me grow as a developer and deepen my understanding of technology, design, and user experience:
 
