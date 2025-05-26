@@ -1,6 +1,8 @@
 ![Banner](https://github.com/GustavoRodrigues476/gustavorodrigues476/blob/main/Banner.png)
 <!--# Hey there! 👋 I'm Gustavo Rodrigues. Welcome to my GitHub! -->
 
+
+
 # Me
 🔭 I’m currently working on **Tranquilo Seguros**  
 🎓 I’m in my 3rd semester of **Systems Analysis and Development** at **FATEC**  
