@@ -1,5 +1,5 @@
-![Banner](https://github.com/GustavoRodrigues476/gustavorodrigues476/blob/main/Assets/Banner.png)
-# Hey there! 👋 I'm Gustavo Rodrigues. Welcome to my GitHub!
+![Banner](https://github.com/GustavoRodrigues476/gustavorodrigues476/blob/main/Banner.png)
+<!--# Hey there! 👋 I'm Gustavo Rodrigues. Welcome to my GitHub! -->
 
 # 💫 About Me
 🔭 I’m currently working on **Tranquilo Seguros**  
