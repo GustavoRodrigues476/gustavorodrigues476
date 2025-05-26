@@ -1,3 +1,4 @@
+![Banner](https://github.com/GustavoRodrigues476/gustavorodrigues476/blob/main/Assets/Banner.png)
 # Hey there! 👋 I'm Gustavo Rodrigues. Welcome to my GitHub!
 
 # 💫 About Me
