@@ -1,4 +1,4 @@
-![Banner](https://github.com/GustavoRodrigues476/gustavorodrigues476/blob/main/Banner.png)
+![Banner](https://github.com/GustavoRodrigues476/gustavorodrigues476/blob/dfd09454125e90fbc308f05ebd5be450458a6497/Banner.png)
 <!--# Hey there! 👋 I'm Gustavo Rodrigues. Welcome to my GitHub! -->
 <br /> 
 
