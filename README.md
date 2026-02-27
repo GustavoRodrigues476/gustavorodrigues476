@@ -28,7 +28,8 @@ An illustrated guide that makes algorithms approachable and fun.
 * “Articulando Decisões de Design”
 A book focused on making thoughtful design choices in software development.
 
-
+* “O Programador Pragmático by Andrew Hunt & David Thomas”
+A classic in software engineering that presents practical principles and professional attitudes for building robust, maintainable systems. The book focuses on developer responsibility, automation, clean code practices, continuous learning, and pragmatic decision-making in real-world projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-rrodrigues) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Gustavo.raimundo.rodrigues@gmail.com) 
